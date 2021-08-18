@@ -1,6 +1,8 @@
-# Calculator-App
+# Calculator-App 
 This is a cross platform Calculator desktop application built on electron framework.
 
+![Calculator Icon](assets/icons/png/Calculator-icon.png)
+Format: ![Alt Text](url)
 
 ### Version
 1.0.0

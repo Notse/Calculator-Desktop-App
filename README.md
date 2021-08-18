@@ -1,5 +1,5 @@
-# calculator-App
-This is a cross platform Calculator  desktop application built on electron framework.
+# Calculator-App
+This is a cross platform Calculator desktop application built on electron framework.
 
 
 ### Version

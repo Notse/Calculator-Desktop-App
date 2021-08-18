@@ -1,8 +1,7 @@
 # Calculator-App 
 This is a cross platform Calculator desktop application built on electron framework.
 
-![Calculator Icon](assets/icons/png/Calculator-icon.png)
-Format: ![Alt Text](url)
+<img src="https://github.com/Notse/calculator-App/blob/main/assets/icons/png/Calculator-icon.png" width="100" height="100">
 
 ### Version
 1.0.0
